@@ -1,1 +1,1 @@
-ME 548: Introduction to Design Optimization
+ME 548: Introduction to Design Optimization. MATLAB only
